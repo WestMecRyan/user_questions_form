@@ -1,0 +1,11 @@
+{
+  "watch": ["server.js"],
+  "ext": "js",
+  "ignore": ["*.test.js", "node_modules/"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "events": {
+    "restart": "node -e \"require('fs').writeFileSync('.nodemon-restarted', Date.now().toString())\""
+  }
+}

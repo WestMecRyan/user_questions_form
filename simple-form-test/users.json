@@ -1,0 +1,19 @@
+[
+  {
+    "name": "a",
+    "email": "a@a.com",
+    "messages": [
+      "a",
+      "a",
+      "a",
+      "a"
+    ]
+  },
+  {
+    "name": "b",
+    "email": "b@b.com",
+    "messages": [
+      "b"
+    ]
+  }
+]
